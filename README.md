@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/beangoben/HistoriaDatos_Higgs/master/media/banner2.png)
+![](https://raw.githubusercontent.com/beangoben/HistoriaDatos_Higgs/master/media/banner.png)
 
 ## Sobre el club
 
