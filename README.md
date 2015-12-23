@@ -1,9 +1,6 @@
 
 ![](https://raw.githubusercontent.com/beangoben/HistoriaDatos_Higgs/master/media/banner2.png)
 
-Pagina prepara para los clubes de ciencia Bolivia 2016!
-![](https://raw.githubusercontent.com/beangoben/HistoriaDatos_Higgs/master/media/logo1.png)
-
 ## Sobre el club
 
 Seguiremos los rastros que trazaron los científicos para poder confirmar el Boson de Higgs en 2014. Tuvieron que hacer millones de mediciones para inferir su existencia. Estos datos son gigantescos, humanamente imposibles de comprender, para ellos usaremos técnicas computacionales (Machine Learning, visualización de datos, Python) para sacar la información relevante. Será una aventura donde las máquinas serán nuestras herramientas para la búsqueda para poder hallar la historia que se encuentra dentro de los datos.
@@ -39,14 +36,22 @@ El programa para los 5 dias se ve asi:
 * Leer sobre el boson de higgs, machine learning, computo scientifico, jupyter.
 
 
-## Programación (Python)
+## Sobre programación (Python)
 Mucho del curso es vía la programación, no se asusten!
 La programación puede ser bien divertida..aparte que puedes hacer muchísimas cosas con ella! Sin importar en el campo que pretendas ejercer/trabajar.
-Las habilidades que aprenden en el taller se pueden aplicar en cualquier situación laboral/académica/profesional.
+Las habilidades que aprenderan en el taller se pueden aplicar en cualquier situación laboral/académica/profesional.
 
 Usaremos python, es mi pan de cada día... y muy facil de aprender, 
 Por favor, tomen este curso en linea para prepararse para el club:
 
 Toma alrededor de 13 horas y esta diseñado para estudiantes de secundaria y preparatoria... ustedes que son super motivados e inteligentes seguro si pueden! y tal vez en menos. 
 
-##
+## Instructores:
+
+* Benjamin Sanchez Lengeling, Estudiante de doctorado en Quimica, Harvard University.
+* Silvia Alejandra Salina Ayaviri, Estudiante de doctorado en Ingenieria de Sistemas complejos, Universidad Adolfo Ibanez.
+* Ivar Mauricio Montellano, Estudiante de maestria en Fisica, Instituto Balseiro.
+
+Cualquier duda/comentario del curso enviarnosla a los tres instructores.
+
+
