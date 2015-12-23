@@ -4,22 +4,22 @@
 <!-- MarkdownTOC -->
 
 - Sobre el club
-	- En que consiste el club?
-	- Que necesito para prepararme?
-	-  Sobre programación (Python)
+- En que consiste el club?
+- Que necesito para prepararme?
+-  Sobre programación (Python)
 - Algunos links
 	- Boson de Higgs
-	- Instructores:
-	- A trabajar y hacer ciencia!
+- Instructores:
+- A trabajar y hacer ciencia!
 
 <!-- /MarkdownTOC -->
 
 
-## Sobre el club
+# Sobre el club
 
 Seguiremos los rastros que trazaron los científicos para poder confirmar el Boson de Higgs en 2014. Tuvieron que hacer millones de mediciones para inferir su existencia. Estos datos son gigantescos, humanamente imposibles de comprender, para ellos usaremos técnicas computacionales (Machine Learning, visualización de datos, Python) para sacar la información relevante. Será una aventura donde las máquinas serán nuestras herramientas para la búsqueda para poder hallar la historia que se encuentra dentro de los datos.
 
-## En que consiste el club?
+# En que consiste el club?
 Tendremos 5 sesiones desde el 4 hasta el 8 de Enero 2016. Cada sesión sera de 5-6 horas, cada sesión esta dividida en tres partes temáticas. Media hora de teoría y una hora de practica ejercicios. Al final de cada día un pequeño examen para asesorar lo aprendido.
 
 El programa para los 5 días se ve así:
@@ -42,7 +42,7 @@ El programa para los 5 días se ve así:
 	* Bosques aleatorios + Gradient-boost Decent !
 * Dia 5: Dia libre, depende de lo que suceda en la semana, expandiremos temas este día para concluir.
 
-## Que necesito para prepararme?
+# Que necesito para prepararme?
 
 * Mucho entusiasmo y motivación!
 * Un sentido de exploración!
@@ -50,7 +50,7 @@ El programa para los 5 días se ve así:
 * Leer sobre el Boson de Higgs, machine learning, computo científico, jupyter.
 
 
-## <i class="fa fa-code"></i> Sobre programación (Python)
+# <i class="fa fa-code"></i> Sobre programación (Python)
 Mucho del curso es vía la programación, no se asusten!
 La programación puede ser bien divertida..aparte que puedes hacer muchísimas cosas con ella! Sin importar en el campo que pretendas ejercer/trabajar.
 Las habilidades que aprenderán en el taller se pueden aplicar en cualquier situación laboral/académica/profesional.
@@ -75,7 +75,7 @@ Toma alrededor de 13 horas y esta diseñado para estudiantes de secundaria y pre
 * [https://www.youtube.com/watch?v=-BAs01xW56A](https://www.youtube.com/watch?v=-BAs01xW56A)
 * [https://youtu.be/2a6_sWqng-M (Subtitulado)](https://youtu.be/2a6_sWqng-M)
 
-## Instructores:
+# Instructores:
 
 * **Benjamin Sanchez Lengeling**, Estudiante de doctorado en Química, Harvard University.
 * **Silvia Alejandra Salina Ayaviri**, Estudiante de doctorado en Ingeniería de Sistemas complejos, Universidad Adolfo Ibanez.
@@ -83,6 +83,6 @@ Toma alrededor de 13 horas y esta diseñado para estudiantes de secundaria y pre
 
 Cualquier duda/comentario del curso enviárnosla a los tres instructores.
 
-## A trabajar y hacer ciencia!
+# A trabajar y hacer ciencia!
 
 
