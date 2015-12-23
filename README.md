@@ -1,6 +1,18 @@
 
 ![](https://raw.githubusercontent.com/beangoben/HistoriaDatos_Higgs/master/media/banner.png)
 
+<!-- MarkdownTOC -->
+
+- Sobre el club
+- En que consiste el club?
+- Que necesito para prepararme?
+-  Sobre programación (Python)
+- Instructores:
+- A trabajar y hacer ciencia!
+
+<!-- /MarkdownTOC -->
+
+
 ## Sobre el club
 
 Seguiremos los rastros que trazaron los científicos para poder confirmar el Boson de Higgs en 2014. Tuvieron que hacer millones de mediciones para inferir su existencia. Estos datos son gigantescos, humanamente imposibles de comprender, para ellos usaremos técnicas computacionales (Machine Learning, visualización de datos, Python) para sacar la información relevante. Será una aventura donde las máquinas serán nuestras herramientas para la búsqueda para poder hallar la historia que se encuentra dentro de los datos.
@@ -36,15 +48,15 @@ El programa para los 5 días se ve así:
 * Leer sobre el Boson de Higgs, machine learning, computo científico, jupyter.
 
 
-## :fa fa-code: Sobre programación (Python)
+## <i class="fa fa-code"></i> Sobre programación (Python)
 Mucho del curso es vía la programación, no se asusten!
 La programación puede ser bien divertida..aparte que puedes hacer muchísimas cosas con ella! Sin importar en el campo que pretendas ejercer/trabajar.
 Las habilidades que aprenderán en el taller se pueden aplicar en cualquier situación laboral/académica/profesional.
 
-Usaremos python, es mi pan de cada día... y muy facil de aprender, 
+Usaremos python, es mi pan de cada día... y muy facil de aprender,
 Por favor, tomen este curso en linea para prepararse para el club:
 
-Toma alrededor de 13 horas y esta diseñado para estudiantes de secundaria y preparatoria... ustedes que son super motivados e inteligentes seguro si pueden! y tal vez en menos. 
+Toma alrededor de 13 horas y esta diseñado para estudiantes de secundaria y preparatoria... ustedes que son super motivados e inteligentes seguro si pueden! y tal vez en menos.
 
 ## Instructores:
 
