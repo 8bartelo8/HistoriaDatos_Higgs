@@ -4,11 +4,13 @@
 <!-- MarkdownTOC -->
 
 - Sobre el club
-- En que consiste el club?
-- Que necesito para prepararme?
--  Sobre programación (Python)
-- Instructores:
-- A trabajar y hacer ciencia!
+	- En que consiste el club?
+	- Que necesito para prepararme?
+	-  Sobre programación (Python)
+- Algunos links
+	- Boson de Higgs
+	- Instructores:
+	- A trabajar y hacer ciencia!
 
 <!-- /MarkdownTOC -->
 
@@ -58,6 +60,21 @@ Por favor, tomen este curso en linea para prepararse para el club:
 
 Toma alrededor de 13 horas y esta diseñado para estudiantes de secundaria y preparatoria... ustedes que son super motivados e inteligentes seguro si pueden! y tal vez en menos.
 
+# Algunos links
+## Boson de Higgs
+* [http://www.ifca.unican.es/sites/default/files/preguntas/archivos/* El%20Boso%CC%81n%20de%20Higgs.pdf](http://www.ifca.unican.es/sites/default/files/preguntas/archivos/* El%20Boso%CC%81n%20de%20Higgs.pdf)
+* [http://www.almomento.mx/cientificos-resucitan-al-gran-colisionador/](http://www.almomento.mx/cientificos-resucitan-al-gran-colisionador/)
+* [https://www.i-cpan.es/detallePregunta.php?id=1](ttps://www.i-cpan.es/detallePregunta.php?id=1)
+* [https://www.youtube.com/watch?v=jz-OHaWFHwA](https://www.youtube.com/watch?v=jz-OHaWFHwA)
+* [http://wwwae.ciemat.es/grid/index_spanish.html](http://wwwae.ciemat.es/grid/index_spanish.html)
+* [http://www.particleadventure.org/spanish/](ttp://www.particleadventure.org/spanish/)
+* [https://es.wikipedia.org/wiki/Bos%C3%B3n_de_Higgs](https://es.wikipedia.org/wiki/Bos%C3%B3n_de_Higgs)
+* [https://www.youtube.com/watch?v=6XIsLpqo9no](https://www.youtube.com/watch?v=6XIsLpqo9no)
+* [https://www.youtube.com/watch?v=YJOqzd4gCT0](https://www.youtube.com/watch?v=YJOqzd4gCT0)
+* [https://www.youtube.com/watch?v=9_XWVUdwbU0](https://www.youtube.com/watch?v=9_XWVUdwbU0)
+* [https://www.youtube.com/watch?v=-BAs01xW56A](https://www.youtube.com/watch?v=-BAs01xW56A)
+* [https://youtu.be/2a6_sWqng-M (Subtitulado)](https://youtu.be/2a6_sWqng-M)
+
 ## Instructores:
 
 * **Benjamin Sanchez Lengeling**, Estudiante de doctorado en Química, Harvard University.
@@ -67,3 +84,5 @@ Toma alrededor de 13 horas y esta diseñado para estudiantes de secundaria y pre
 Cualquier duda/comentario del curso enviárnosla a los tres instructores.
 
 ## A trabajar y hacer ciencia!
+
+
