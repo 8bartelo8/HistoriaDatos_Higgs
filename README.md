@@ -36,7 +36,7 @@ El programa para los 5 días se ve así:
 * Leer sobre el Boson de Higgs, machine learning, computo científico, jupyter.
 
 
-## <i class="fa fa-code"></i> Sobre programación (Python)
+## :fa fa-code: Sobre programación (Python)
 Mucho del curso es vía la programación, no se asusten!
 La programación puede ser bien divertida..aparte que puedes hacer muchísimas cosas con ella! Sin importar en el campo que pretendas ejercer/trabajar.
 Las habilidades que aprenderán en el taller se pueden aplicar en cualquier situación laboral/académica/profesional.
