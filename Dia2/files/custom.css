@@ -1,0 +1,188 @@
+@import url('http://fonts.googleapis.com/css?family=Lato:200');
+
+body {
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Apple pips */
+div.CodeMirror-lines {
+    border: 0px;
+    padding-bottom: 1em;
+}
+
+/* Based on Sxq-light */
+
+.cm-s-ipython {background: #ffffff; color: #701;}
+.cm-s-ipython span.cm-keyword {line-height: 1em; font-weight: bold; color: #5A5CAD; }
+.cm-s-ipython span.cm-atom {color: #6C8CD5;}
+.cm-s-ipython span.cm-number {color: #562;}
+.cm-s-ipython span.cm-def {text-decoration:underline; color:#164;}
+.cm-s-ipython span.cm-variable {color: black; }
+.cm-s-ipython span.cm-variable-2 {color:black;}
+.cm-s-ipython span.cm-variable-3 {color: black; }
+.cm-s-ipython span.cm-property {color:green}
+.cm-s-ipython span.cm-operator {color:green}
+.cm-s-ipython span.cm-comment {color: #0080FF; font-style: italic;}
+.cm-s-ipython span.cm-string {color: red;}
+.cm-s-ipython span.cm-meta {color: yellow;}
+.cm-s-ipython span.cm-qualifier {color: green}
+.cm-s-ipython span.cm-builtin {color: #202a16;}
+.cm-s-ipython span.cm-bracket {color: #337;}
+.cm-s-ipython span.cm-tag {color: #3F7F7F;}
+.cm-s-ipython span.cm-attribute {color: #7F007F;}
+.cm-s-ipython span.cm-error {color: #f00;}
+.cm-s-ipython .CodeMirror-linenumber {
+  color: #152;
+}
+.cm-s-ipython .CodeMirror-activeline-background {background: #e8f2ff !important;}
+.cm-s-ipython .CodeMirror-matchingbracket {outline:1px solid green;color:black !important;background:yellow;}
+
+
+.cm-s-ipython .CodeMirror-matchingbracket {
+  text-decoration: underline;
+  color: red !important;
+}
+
+.CodeMirror-gutters {
+ background-color: #d5d5d5;
+ font-size: 14pt;
+}
+
+/* Formatting code in markdown cells */
+div.rendered_html code {
+    font-style: italic;
+    font-weight: bold;
+    color: #8C6900;
+}
+
+.CodeMirror {
+    font-family: "Inconsolata",monospace;
+    font-size: 13pt;
+}
+
+/* Header */
+
+.rendered_html {
+    font-size: 13pt;
+}
+
+
+.text_cell_render h1 {
+    font-size: 2.5em;
+    line-height: 100%;
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    display: block;
+    color: rgb(44, 62, 120);
+}
+
+.text_cell_render h2 {
+    line-height: 100%;
+    font-size: 2em;
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    display: block;
+    color: rgb(44, 62, 80);
+}
+
+.text_cell_render h3 {
+    font-size: 1.5em;
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    color: rgb(44, 62, 80);
+}
+
+.text_cell_render h4 {
+    font-size: 1.25em;
+    margin-bottom: 0.05em;
+    margin-top: 0.05em;
+    color: rgb(180, 62, 80);
+}
+/* Header */
+
+
+span#notebook_name {
+    font-size: 2em;
+
+}
+
+div#notebook { /* centre the content */
+    background: #fff; /* white background for content */
+    margin: auto;
+}
+
+span#notebook_name.ui-state-hover {
+    color: #ffff00;
+}
+
+
+
+
+/* draw border around running cells */
+div.cell.border-box-sizing.code_cell.running {
+    border: 3px solid #F11;
+}
+
+/*Input and output cells formatting*/
+div.prompt.input_prompt, div.prompt.output_prompt {
+    color: #FF0000;
+    border: 0px;
+    width: 2.5em;
+    font-size: 1em
+}
+
+div.prompt.input_prompt {
+    background-color: #FFFFFF;
+}
+
+div.prompt.output_prompt {
+    background-color: #FFFFFF;
+    padding-top: 0.5em;
+    margin: 8px; /*This is for getting the box-shadow property of the parent to display properly;*/
+}
+
+div.prompt {
+    width: 2.5em;
+    min-width: 10ex;
+}
+
+
+
+div.input_area {
+    border: 0px;
+    margin-bottom: 0;
+}
+
+div.out_prompt_overlay.prompt {
+    width: 1em;
+    border: 0px;
+}
+
+div.out_prompt_overlay.prompt:hover {
+    border: 0px;
+    background-color: #f92672;
+    box-shadow: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    opacity:0.2;
+}
+
+div.output_subarea.output_text.output_stream.output_stdout,div.output_subarea.output_text {
+    margin-left: 0em;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+    margin-top: 8px; /*This is for getting the box-shadow property of the parent to display properly;*/
+}
+
+div.output_wrapper {
+    background-color: #FFFFFF;
+    margin-bottom: 2em;
+    margin-top: 0;
+}
+
+div.output.vbox {
+    box-shadow:inset 0 0 8px #4d4d4d;   /* Check the output prompt settings when changing this*/
+}
+
+/* list style */
