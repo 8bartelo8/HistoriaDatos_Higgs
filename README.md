@@ -59,6 +59,13 @@ Usaremos python, es mi pan de cada día... y muy facil de aprender,
 Por favor, tomen este curso en linea para prepararse para el club:
 
 Toma alrededor de 13 horas y esta diseñado para estudiantes de secundaria y preparatoria... ustedes que son super motivados e inteligentes seguro si pueden! y tal vez en menos.
+Entre mejor preparado estes, mas podras enfocarte en los conceptos del curso y no tanto en el aspecto de programacion.
+
+## Python en tu computadora
+Para utilizar python en tu computadora, recomiendo instalar [**Anaconda**](https://www.continuum.io/downloads), es un paquete que contiene muchisimas librerias de python y esta listo para utilizarse!
+Usaremos Python 3.5, bajalo y facilmente puedes empezar una sesion de ipython notebooks.
+
+Para ver un poco mas de los ipython notebook que seran nuestra herramienta para programa sugiero que chequen el proyecto Jupyter [https://jupyter.org/](https://jupyter.org/) y Ipython [http://ipython.org/](http://ipython.org/).
 
 # Algunos links
 ## Boson de Higgs
