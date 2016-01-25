@@ -88,6 +88,8 @@ Para ver un poco mas de los ipython notebook que seran nuestra herramienta para 
 * **Silvia Alejandra Salina Ayaviri**, Estudiante de doctorado en Ingeniería de Sistemas complejos, Universidad Adolfo Ibanez.
 * **Ivar Mauricio Montellano**, Estudiante de maestría en Física, Instituto Balseiro.
 
+Curso basado en el club del mismo nombre de Clubes de Ciencia Mexio Verano '15 en Merida, impartido por **Benjamin Sanchez Lengeling** y **Elias Euan Polanco**.
+
 Cualquier duda/comentario del curso enviárnosla a los tres instructores.
 
 # A trabajar y hacer ciencia!
